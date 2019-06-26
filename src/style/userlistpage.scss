@@ -1,0 +1,57 @@
+.image {
+  width: 20em;
+  height: 15em;
+  border: 1px solid whitesmoke;
+  margin: 2em;
+  float: left;
+  border-radius: 32px;
+  box-shadow: 5px 5px gray;
+}
+
+.user-info {
+  color: black;
+  padding: 4em;
+  float: left;
+  font-size: 20px;
+  margin-left: 2em;
+  font-family: -webkit-body;
+}
+
+.next-page {
+  color: black;
+  font-size: 1.5em;
+  float: right;
+  border: 1px solid black;
+  margin: 10px 20px 10px 0px;
+}
+.view {
+  margin-left:52%; 
+  background-color: rgb(229, 233, 241);
+  border: 1px solid lightblue;
+  color: black;
+  
+}
+.mainPage {
+  width:100%;
+}
+
+.detail {
+  font-size: larger;
+  font-family: inherit;
+  font-weight: 600;
+}
+.single-user {
+  border: 1px solid #ccc;
+  margin: 2em;
+  border-radius: 3em;
+  background-color:rgb(206, 194, 202); 
+  box-shadow: 5px 5px rgb(168, 157, 157);
+}
+.spin {
+  text-align: center;
+}
+#nav {
+  height: 60px;
+  margin-bottom: 4em;
+  background-color: #647dee;
+}
